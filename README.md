@@ -131,4 +131,4 @@ Each emotion maps to a unique BGR color. The viewfinder brackets and label chang
 
 **Mohammed Farahat**  
 2nd Year AI Engineering Student — Mansoura National University  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/mohammed-farahat-46775b357/) | [GitHub](https://github.com/Farahat911)
